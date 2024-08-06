@@ -1,0 +1,16 @@
+realesrgan-ncnn-vulkan.exe -i "C:\Users\fenix3090\Creative Cloud Files\sublimadora\Mandalorian cyberpunk.jpg"  -o "C:\Users\fenix3090\Creative Cloud Files\sublimadora\hd.png" -s 4 -g -n realesrgan-x4plus-anime -x -f png
+
+
+
+rutaHD="C:\Users\fenix3090\Creative Cloud Files\sublimadora\para arreglar\1024x1024\otro\astro1 para escalar.png"
+
+
+realesrgan-ncnn-vulkan.exe -i "C:\Users\fenix3090\Creative Cloud Files\sublimadora\para arreglar\1024x1024\otro\astro1 para escalar.png"  -o "C:\Users\fenix3090\Creative Cloud Files\sublimadora\para arreglar\1024x1024\otro\astro1 para escalar.png" -s 4 -g -n realesrgan-x4plus-anime -x -f png
+
+
+
+
+
+
+realesrgan-ncnn-vulkan.exe -i "ruta4k"  -o "rutahd" -s 4 -g -n realesrgan-x4plus-anime -x -f png
+
