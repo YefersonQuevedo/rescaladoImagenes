@@ -24,13 +24,14 @@ Este programa permite reescalar imágenes utilizando la potencia de procesamient
    - Abre el archivo `Programa principal escalar imagen.exe` que se encuentra en el directorio descomprimido. Este es el archivo ejecutable del programa.
 
    ![Ejecutando el Programa]([images/execute_program.png](https://prnt.sc/LUu2YDLiO88X)) <!-- Puedes reemplazar con una imagen si lo deseas -->
+   ![imagen](https://github.com/user-attachments/assets/d6874320-0d66-45a5-ab73-1287318bd09b)
 
-3. **Configuración de Entrada**:
+4. **Configuración de Entrada**:
    - El programa abrirá una interfaz donde podrás seleccionar las imágenes que deseas reescalar.
 
-4. **Configura el Tamaño de Salida**:
+5. **Configura el Tamaño de Salida**:
    - Establece el tamaño deseado para las imágenes reescaladas en la interfaz del programa.
 
-5. **Inicia el Proceso de Reescalado**:
+6. **Inicia el Proceso de Reescalado**:
    - Haz clic en el botón de "Reescalar" para comenzar el proceso. Las imágenes reescaladas se guardarán en el directorio especificado.
 
